@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 800">
+ <rect width="900" height="800" fill="#e8e0d6"/><path fill="#d3c6b8" d="M0 650 900 330v470H0Z"/><path fill="#c91f28" opacity=".12" d="m0 170 900 220v90L0 260Z"/>
+ <g fill="none" stroke="#c91f28" stroke-width="18" opacity=".3"><path d="M-40 610 810 300"/><path d="M40 710 890 400"/></g>
+ <g transform="translate(420 90) rotate(9)"><circle cx="74" cy="66" r="48" fill="#2a2826"/><path fill="#292725" d="M50 114c35-18 79-12 103 25l63 98-81 39-47-70-34 152-97-21Z"/><path fill="#c91f28" d="m123 259 42-17 84 161-51 26Z"/><path fill="#292725" d="m-11 341 82 26-89 229-65-25Z"/><path fill="#c91f28" d="m199 405 50-17 107 174-64 32Z"/><path fill="#f8f4ed" d="m-97 557 88 20-22 49-137-18Z"/><path fill="#f8f4ed" d="m287 570 71-20 55 38-117 29Z"/><path fill="#c91f28" d="m56 137-151 103-26-42L35 92Z"/></g>
+ <text x="50" y="95" font-family="Arial Black,sans-serif" font-size="56" fill="#c91f28">MOTION / 24</text>
+</svg>
