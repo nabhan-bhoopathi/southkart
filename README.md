@@ -1,4 +1,4 @@
-# Redline Footwork
+# SOUTHKART Footwork
 
 A bold red-and-white ecommerce storefront for a fictional performance shoe label. The site includes an editorial homepage, responsive product catalog, detailed shoe pages, lightweight bag interactions, and an optional Stripe Checkout flow.
 
